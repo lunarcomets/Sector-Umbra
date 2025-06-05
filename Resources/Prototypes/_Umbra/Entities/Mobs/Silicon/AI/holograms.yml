@@ -1,0 +1,44 @@
+- type: stationAiCustomization
+  id: StationAiHologramBeachball
+  name: station-ai-hologram-beachball
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: _Umbra/Mobs/Silicon/AI/holograms.rsi
+      state: ai_beachball
+
+- type: stationAiCustomization
+  id: StationAiHologramBuzzer
+  name: station-ai-hologram-buzzer
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: _Umbra/Mobs/Silicon/AI/holograms.rsi
+      state: ai_buzzer
+
+- type: stationAiCustomization
+  id: StationAiHologramGhost
+  name: station-ai-hologram-ghost
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: _Umbra/Mobs/Silicon/AI/holograms.rsi
+      state: ai_ghost
+
+- type: stationAiCustomization
+  id: StationAiHologramRaggedHorror
+  name: station-ai-hologram-ragged-horror
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: _Umbra/Mobs/Silicon/AI/holograms.rsi
+      state: ai_ragged_horror
+
+- type: stationAiCustomization
+  id: StationAiHologramWinged
+  name: station-ai-hologram-winged
+  previewKey: Hologram
+  layerData:
+    Hologram:
+      sprite: _Umbra/Mobs/Silicon/AI/holograms.rsi
+      state: ai_winged
